@@ -9,6 +9,8 @@ html {
 }
 
 .page {
+  display: flex;
+  align-items: center;
   margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
@@ -65,7 +67,12 @@ ol {
   flex-direction: row;
   justify-content: space-between;
   align-items: end;
-  padding: 133px 30px;
+  height: 536px;
+  padding: 0 30px;
+}
+
+.result {
+  margin-right: 30px;
 }
 
 .result__video-container {
@@ -195,6 +202,7 @@ input[type="text"]:active {
   position: relative;
   width: 399px;
   height: 298px;
+  overflow-x: hidden;
   overflow-y: auto;
 }
 
