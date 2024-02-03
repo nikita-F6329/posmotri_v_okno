@@ -1,4 +1,4 @@
-# Проект: Оно-тебе-надо
+# Проект: Посмотри в окно
 ### Используемые технологии
 * HTML
 * CSS (flexbox)
@@ -7,16 +7,16 @@
 
 **GitHub**
 
-автор работы: Соловьев Максим
+автор работы: Никитин Никита
 
  * https://github.com/TheCrazyMakc/ono-tebe-nado
 
- * [Проект: Оно-тебе-надо](https://thecrazymakc.github.io/ono-tebe-nado/)
+ * [Проект: Посмотри в окно](https://github.com/nikita-F6329/posmotri_v_okno.git)
 
 
 **Figma**
 
 Вёрстка по макету в Figma.
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/uPkVZc67u6R47KI4xTMYZp/%D0%9E%D0%BD%D0%BE-%D1%82%D0%B5%D0%B1%D0%B5-%D0%BD%D0%B0%D0%B4%D0%BE-2?type=design&node-id=4-2&mode=design&t=SUiGoNgyPsvpMaa2-0)
+* [Ссылка на макет в Figma](https://www.figma.com/file/QHcvX1RsUI89CulRB7HLk6/%234-Посмотри-в-окно?type=design&node-id=0-1&mode=design&t=E9sh8xI9eUfP2cLp-0)
 
