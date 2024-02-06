@@ -126,11 +126,6 @@ ol {
   letter-spacing: -0.2px;
 }
 
-.search-form__textfield:active {
-  outline: 1px solid #fff;
-  outline-offset: -1px;
-}
-
 .search-form__textfield:focus-visible {
   outline: none;
 }
@@ -138,6 +133,11 @@ ol {
 .search-form__label:has(:focus-visible) {
   outline: 1px solid #fff;
   outline-offset: 1px;
+}
+
+.search-form__textfield:active {
+  outline: 1px solid #fff;
+  outline-offset: -1px;
 }
 
 .search-form__label:not(:last-child) {
@@ -243,7 +243,7 @@ ol {
   font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 30px;
-  line-height: 0.9;
+  line-height: 1;
   text-decoration: none;
   text-transform: uppercase;
   text-overflow: ellipsis;
